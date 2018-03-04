@@ -1,4 +1,2 @@
 my first line
-london is the capital of GB
-moscow is a capital of russia
 Paris is the capital of France
